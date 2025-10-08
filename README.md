@@ -1,3 +1,8 @@
+## Commit History
+- v1.0 – Dataset cleaning and import complete
+- v1.1 – Basic Bayesian model setup
+- v1.2 – Visualization module initialized
+
 # Bayesian Verification of Weather Forecast Probabilities
 50% complete student codebase.
 
